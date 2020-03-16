@@ -13,6 +13,7 @@
 		95F447F9241FB0A4008E0E40 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95F447F7241FB0A4008E0E40 /* Main.storyboard */; };
 		95F447FB241FB0A5008E0E40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95F447FA241FB0A5008E0E40 /* Assets.xcassets */; };
 		95F447FE241FB0A5008E0E40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95F447FC241FB0A5008E0E40 /* LaunchScreen.storyboard */; };
+		95F44806241FB0D5008E0E40 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F44805241FB0D5008E0E40 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		95F447FA241FB0A5008E0E40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		95F447FD241FB0A5008E0E40 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		95F447FF241FB0A5008E0E40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95F44805241FB0D5008E0E40 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				95F447FA241FB0A5008E0E40 /* Assets.xcassets */,
 				95F447FC241FB0A5008E0E40 /* LaunchScreen.storyboard */,
 				95F447FF241FB0A5008E0E40 /* Info.plist */,
+				95F44805241FB0D5008E0E40 /* SwiftUIView.swift */,
 			);
 			path = SwiftUIHostingDemo;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				95F447F6241FB0A4008E0E40 /* ViewController.swift in Sources */,
 				95F447F2241FB0A4008E0E40 /* AppDelegate.swift in Sources */,
+				95F44806241FB0D5008E0E40 /* SwiftUIView.swift in Sources */,
 				95F447F4241FB0A4008E0E40 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
